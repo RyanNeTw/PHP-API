@@ -2,8 +2,6 @@
 
 namespace Config;
 
-use Twig\Environment;
-
 class Controller
 {
     private int $number;
